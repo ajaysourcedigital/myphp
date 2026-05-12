@@ -6,6 +6,8 @@
 - 点击下方按钮跳转并部署
 
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffanmingming%2Fmyphp&project-name=MyPHP&repository-name=MyPHP"><img src="https://vercel.com/button"></a>
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=fanmingming/myphp&type=static&buildCmd=npm+run+build&outputDir=dist)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=fanmingming/myphp&type=static&buildCmd=npm+run+build&outputDir=dist)
 - 找到Vercel项目的域名设置，改为你的域名保存
 - 访问你的域名
 > 最后你可以：删除仓库的`README.md`，编辑或删除`index.html`。
